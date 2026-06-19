@@ -29,8 +29,7 @@ Develop a machine learning framework that predicts UPS delivery crash severity u
 
 <td width="25%" align="center">
 
-<img src="https://www.customdesignsbynatalie.com/products/ups-thank-you-stickers" width="180"/>
-
+<img src="images/ups_logo.png" width="180"/>
 </td>
 </tr>
 </table>
