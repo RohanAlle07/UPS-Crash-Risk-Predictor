@@ -25,6 +25,7 @@ Develop a machine learning framework that predicts UPS delivery crash severity u
 ## Deployment
 🔗 https://huggingface.co/spaces/TommyT777/UPS-Crash-Risk
 
+⚠️ <u><strong><em>Web App deployed on free hugging face,requires occasional re-run of code.</em></strong></u>
 </td>
 
 <td width="25%" align="center">
