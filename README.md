@@ -33,3 +33,5 @@ Develop a machine learning framework that predicts UPS delivery crash severity u
 </td>
 </tr>
 </table>
+
+## Paper publishing underway!
